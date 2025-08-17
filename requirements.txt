@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+nltk
+wordcloud
+transformers
+google-api-python-client
