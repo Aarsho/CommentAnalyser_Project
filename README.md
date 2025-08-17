@@ -1,8 +1,7 @@
 The YouTube Comment Analyser is a Streamlit web app that fetches comments from any YouTube video and runs sentiment and emotion analysis on them.
 It helps you quickly understand how people feel about a video — whether they’re loving it, hating it, or just being neutral.
 
- Features
- --------------------------------------
+✨ Features
 
 1. Fetch YouTube comments using the official API
 
@@ -12,17 +11,17 @@ It helps you quickly understand how people feel about a video — whether they�
 
 4.Visualizations:
 
-  1.Sentiment bar chart 
+Sentiment bar chart / meter
 
-  2.Emotion intensity pie chart
+Emotion intensity pie chart
 
-  3.Word cloud of most used words
+Word cloud of most used words
 
 5. Top comments display (highlights interesting ones)
 
 6. Export results to CSV with a single click
 
-7.Dark-themed, professional UI inspired by YouTube
+7. Dark-themed, professional UI inspired by YouTube
 
 Tech Stack
 -------------------------------------------
