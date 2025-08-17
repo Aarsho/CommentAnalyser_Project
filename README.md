@@ -11,11 +11,11 @@ It helps you quickly understand how people feel about a video â€” whether theyâ€
 
 4. Visualizations:
 
-Sentiment bar chart / meter
+ 1. Sentiment bar chart / meter
 
-Emotion intensity pie chart
+ 2. Emotion intensity pie chart
 
-Word cloud of most used words
+ 3. Word cloud of most used words
 
 5. Top comments display (highlights interesting ones)
 
