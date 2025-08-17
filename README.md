@@ -9,7 +9,7 @@ It helps you quickly understand how people feel about a video â€” whether theyâ€
 
 3. Emotion Detection using Hugging Face Transformers (joy, sadness, anger, fear, surprise, etc.)
 
-4.Visualizations:
+4. Visualizations:
 
 Sentiment bar chart / meter
 
